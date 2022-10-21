@@ -24,7 +24,7 @@ void EvenNum(int[] array)
             even++;
         }
     }
-    Console.WriteLine($"Кол-во четных элементов: {even}" );
+    Console.WriteLine($"Кол-во четных элементов: {even}");
 }
 
 
